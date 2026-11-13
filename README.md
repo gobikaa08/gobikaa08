@@ -1,7 +1,7 @@
 
 <!--
   GitHub Profile README
-  Username: Gobikaa2007
+  Username: gobikaa08
 -->
 
 <div align="center">
@@ -84,7 +84,7 @@ An interactive network simulator that demonstrates Dijkstra's Shortest Path Firs
 
 **Technologies:** HTML, CSS, JavaScript, Dijkstra's Algorithm
 
-🔗 [View Source Code](https://github.com/Gobikaa2007)
+🔗 [View Source Code](https://github.com/gobikaa08)
 
 ### 4. Personal Portfolio Website
 
@@ -137,7 +137,7 @@ A personal portfolio showcasing my technical skills, projects, and professional 
 - 📧 Email: [gobikaa08@gmail.com](mailto:gobikaa08@gmail.com)
 - 💼 LinkedIn: [Gobikaa E](https://www.linkedin.com/in/gobikaa-e)
 - 🌐 Portfolio: [Visit Website](https://gobikaa-portfolio.vercel.app/)
-- 🐙 GitHub: [Gobikaa2007](https://github.com/Gobikaa2007)
+- 🐙 GitHub: [Gobikaa2007](https://github.com/gobikaa08)
 
 ---
 
